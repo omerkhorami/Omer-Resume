@@ -1,0 +1,20 @@
+body{
+background-color: rgb(39, 77, 88);
+font-family: Arial, sans-serif;
+margin: 10;
+padding: 20;
+text-align: center;
+}
+button{
+background-color: rgb(30, 29, 56);
+border: rgb(255, 255, 255);
+color: rgba(105, 236, 29, 0.945);
+padding: 10px 15px;
+text-align: center;
+font-size: 15px;
+margin: 8px 4px;
+border-radius: 10px;
+}
+img{
+border-radius: 80px;
+}
